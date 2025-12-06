@@ -1,0 +1,8 @@
+{
+  "name": "cloud-cost-optimizer-root",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
